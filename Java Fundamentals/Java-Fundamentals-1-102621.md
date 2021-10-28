@@ -199,6 +199,7 @@ vacationDays = 12;
 
   ### Operator
   * The usual arithmatic operators
+  
   ![](https://i.gyazo.com/08422109e1ac4354e5ab1ae5248fd72f.png)
 
   * The / operator denotes integer division if both arguments are integers, and floating point division otherwise
